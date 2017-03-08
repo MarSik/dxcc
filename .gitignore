@@ -1,0 +1,8 @@
+target
+.idea
+.DS_store
+*.iml
+*.versionsBackup
+*.rpm
+settings-travis.xml
+
